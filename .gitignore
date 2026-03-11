@@ -1,0 +1,17 @@
+node_modules
+dist
+build
+.vite
+.env
+.env.local
+coverage
+.DS_Store
+npm-debug.log*
+pnpm-lock.yaml
+yarn.lock
+package-lock.json
+backend/node_modules
+frontend/node_modules
+backend/dist
+frontend/dist
+backend/prisma/dev.db
